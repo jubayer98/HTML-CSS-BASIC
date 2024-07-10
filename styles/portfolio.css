@@ -1,0 +1,29 @@
+/* Nav Styles */
+nav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 100px;
+}
+
+.nav-title
+{
+    font-weight: bolder;
+    font-size: 28px;
+}
+
+nav ul li
+{
+    list-style: none;
+}
+
+.btn-download-resume
+{
+    background-color: white;
+    font-weight: 300;
+    font-size: 20px;
+    color: black;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
