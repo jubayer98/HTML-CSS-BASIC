@@ -1,0 +1,2 @@
+# Developing A Portfolio Website using Basic HTML and CSS
+Creating a portfolio website is an excellent way to showcase our skills and projects. In this project, I used HTML and CSS to build a simple, yet visually appealing portfolio site. Utilize semantic HTML elements to structure my content logically. Use CSS to enhance the visual appeal, ensuring a consistent color scheme, typography, and layout. This project will help anyone to practice fundamental web development skills and result in a professional online presence.
